@@ -5,6 +5,8 @@
    Aug 2019
    
    Goal: create a function that can calculate a 16 bit CRC on a chunk of data.
+   Slow it down and use lots of serial debug to understand the shifting and XOR-ing.
+   
    Start with the example in the video by Ben Eater
 
    Ben Eater: Hardware Build: CRC Calculation
